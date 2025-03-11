@@ -1,4 +1,6 @@
 body {
     display: flex;
     flex-direction: column;
+    border: 5px solid;
+    padding: 10px;
 }
